@@ -3,7 +3,7 @@
 
 
 
-I conducted an HR Analysis on Gender diversity, Equity and Inclusion using Inforiver Charts. The following insights were generated
+I participated in FP2O HR Analysis challenge using Inforiver Charts. The following insights were generated:
 - Employee Population: The company had a total of 694 employees since 2014 – 2019. Male employees were 382 which accounted for 55.04% of the total employees and female employees were 312 with 44.96%. the ratio of male and female is 1:22.
 - Employment by Year: Male employees were hired most is 2014, while female employees were hired most in 2017
 - Employee Age Group: The average age of employees was 51 years of age. 60 – 69 age group were hired the most, followed by 30 – 39 and 40 – 49.
@@ -20,4 +20,4 @@ Overall the company has a good retention rate of 85%
 Recommendations
 -  Female should be hired in the Z management department.
 -  The working age group of 30 – 39 should be hired the most.
--   Competent individuals should be hired most and proper training should be given to them, so as to reduce attrition of employees due to performanc
+-  Competent individuals should be hired most and proper training should be given to them, so as to reduce attrition of employees due to performance
