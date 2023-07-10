@@ -1,9 +1,11 @@
-# Inforiver-FP2O-challenge
+# FP20 Inforiver- HR-challenge 4
+I participated in FP2O HR Analysis challenge using Inforiver Charts.
 
+![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688857978/HR%20Analysis%20Page%201.jpg)
 
+![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688858028/HR%20Analysis%20Page%202.jpg)
 
-
-I participated in FP2O HR Analysis challenge using Inforiver Charts. The following insights were generated:
+The following insights were generated:
 - Employee Population: The company had a total of 694 employees since 2014 – 2019. Male employees were 382 which accounted for 55.04% of the total employees and female employees were 312 with 44.96%. the ratio of male and female is 1:22.
 - Employment by Year: Male employees were hired most is 2014, while female employees were hired most in 2017
 - Employee Age Group: The average age of employees was 51 years of age. 60 – 69 age group were hired the most, followed by 30 – 39 and 40 – 49.
