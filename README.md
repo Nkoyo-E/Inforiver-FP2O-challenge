@@ -1,8 +1,10 @@
 # FP20 Inforiver- HR-challenge 4
 I participated in FP2O HR Analysis challenge using Inforiver Charts.
 
+**Page 1**
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688857978/HR%20Analysis%20Page%201.jpg)
 
+ **Page 2**
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688858028/HR%20Analysis%20Page%202.jpg)
 
 The following insights were generated:
